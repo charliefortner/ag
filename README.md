@@ -1,5 +1,7 @@
-# Corn, Soybeans, and Hog Bellies
-Agricultural price and production data from the USDA's [Statistical Service](https://quickstats.nass.usda.gov/). I've dropped columns I thought were un-needed and dropped all rows where the commodity values were null.
+# Crop Prices and Production Data
+Agricultural price and production data from the USDA's [Statistical Service](https://quickstats.nass.usda.gov/) from 1866 through 2019.
+
+I've dropped columns I thought were un-needed and dropped all rows where the commodity values were null.
 
 Original data downloaded from here: ftp://ftp.nass.usda.gov/quickstats/
 
